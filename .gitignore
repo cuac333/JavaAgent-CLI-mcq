@@ -1,0 +1,8 @@
+target/
+config.properties
+last_session.json
+.javaagent-cli/
+notes.txt
+demo-output.txt
+cache-demo.txt
+.DS_Store
